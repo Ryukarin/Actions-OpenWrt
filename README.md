@@ -19,7 +19,7 @@
 
 - `.config-x86`：x86 平台的 .config 配置文件
 - `.config-ramips:`ramips 平台的 .config 配置文件
-- - `.config-armvirt`：armvirt 平台的 .config 配置文件
+- `.config-armvirt`：armvirt 平台的 .config 配置文件
 - `./.github/workflows/build-openwrt-x86.yml`：x86 平台的 workflow 文件
 - `./.github/workflows/build-openwrt-ramips.yml`：ramips 平台的 workflow 文件
 - `./.github/workflows/build-openwrt-armvirt.yml`：armvirt 平台的 workflow 文件
