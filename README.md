@@ -1,4 +1,4 @@
-# 文件说明
+## 文件说明
 
 - `.config`：通用.config配置文件
 - `diy-part1.sh`：更新与安装feeds之前执行的脚本
@@ -25,6 +25,8 @@
 - `./.github/workflows/build-openwrt-armvirt.yml`：armvirt 平台的 workflow 文件
 - 
 ---
+
+来自大佬P3TERX的项目[Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
 [详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
