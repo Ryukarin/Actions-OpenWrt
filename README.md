@@ -18,12 +18,12 @@
 增加如下常用平台的`.config`配置文件和`workflow`文件，由于事先已经配置好了，可以直接进入本页面的Actions标签页面，根据平台选择`Build OpenWrt-###`（如：build-openwrt-x86），点击`Run workflow`按钮，等待编译完成。
 
 - `.config-x86`：x86 平台的 .config 配置文件
-- `.config-armvirt`：armvirt 平台的 .config 配置文件
 - `.config-ramips:`ramips 平台的 .config 配置文件
+- - `.config-armvirt`：armvirt 平台的 .config 配置文件
 - `./.github/workflows/build-openwrt-x86.yml`：x86 平台的 workflow 文件
-- `./.github/workflows/build-openwrt-armvirt.yml`：armvirt 平台的 workflow 文件
 - `./.github/workflows/build-openwrt-ramips.yml`：ramips 平台的 workflow 文件
-
+- `./.github/workflows/build-openwrt-armvirt.yml`：armvirt 平台的 workflow 文件
+- 
 ---
 
 [详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
