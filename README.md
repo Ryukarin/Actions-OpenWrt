@@ -3,14 +3,14 @@
 
 # 文件说明
 
-- `.config-x86`：x86平台的.config配置文件
-- `.config-armvirt`：armvirt平台的.config配置文件
-- `.config-ramips:`ramips平台的.config配置文件
+- `.config-x86`：x86 平台的 .config 配置文件
+- `.config-armvirt`：armvirt 平台的 .config 配置文件
+- `.config-ramips:`ramips 平台的 .config 配置文件
 - `diy-part1.sh`：更新与安装 feeds 之前执行的脚本
 - `diy-part2.sh`：更新与安装 feeds 之后执行的脚本
-- build-openwrt-x86.yml：x86平台的work­flow 文件
-- build-openwrt-armvirt.yml：armvirt平台的workflow 文件
-- build-openwrt-ramips.yml：ramips平台的workflow 文件
+- `build-openwrt-x86.yml`：x86 平台的 workflow 文件
+- `build-openwrt-armvirt.yml`：armvirt 平台的 workflow 文件
+- `build-openwrt-ramips.yml`：ramips 平台的 workflow 文件
 
 
 
