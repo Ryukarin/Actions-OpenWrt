@@ -23,12 +23,12 @@
 - `./.github/workflows/build-openwrt-x86.yml`：x86 平台的 workflow 文件
 - `./.github/workflows/build-openwrt-ramips.yml`：ramips 平台的 workflow 文件
 - `./.github/workflows/build-openwrt-armvirt.yml`：armvirt 平台的 workflow 文件
-- 
+
 ---
 
 来自大佬P3TERX的项目[Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
-[详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+大佬的[详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ## License
 
