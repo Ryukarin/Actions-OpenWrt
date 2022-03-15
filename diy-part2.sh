@@ -10,6 +10,7 @@
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
 
+
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.99.1/g' package/base-files/files/bin/config_generate
 # 默认IP为192.168.1.1，上面命令将IP改为192.168.99.1
