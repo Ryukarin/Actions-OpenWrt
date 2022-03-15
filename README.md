@@ -1,10 +1,18 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+[详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
-# Actions-OpenWrt
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
+# 文件说明
+
+- `.config-x86`：x86平台的.config配置文件
+- `.config-armvirt`：armvirt平台的.config配置文件
+- `.config-ramips:`ramips平台的.config配置文件
+- `diy-part1.sh`：更新与安装 feeds 之前执行的脚本
+- `diy-part2.sh`：更新与安装 feeds 之后执行的脚本
+- build-openwrt-x86.yml：x86平台的work­flow 文件
+- build-openwrt-armvirt.yml：armvirt平台的workflow 文件
+- build-openwrt-ramips.yml：ramips平台的workflow 文件
+
+
 
 A template for building OpenWrt with GitHub Actions
 
