@@ -28,7 +28,7 @@
 
 来自大佬P3TERX的项目[Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
-大佬的[详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+大佬的详细教程[链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ## License
 
