@@ -1,6 +1,3 @@
-[详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
-
-
 # 文件说明
 - `.config`：通用 .config 配置文件
 
@@ -26,6 +23,10 @@
 - `./.github/workflows/build-openwrt-x86.yml`：x86 平台的 workflow 文件
 - `./.github/workflows/build-openwrt-armvirt.yml`：armvirt 平台的 workflow 文件
 - `./.github/workflows/build-openwrt-ramips.yml`：ramips 平台的 workflow 文件
+
+---
+
+[详细教程链接](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ## License
 
